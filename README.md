@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @210721cs22 - Temur Maksudov 
-- 👀 I’m interested in programming and watching movies 
+- 👀 I’m interested in programming 
 - 🌱 I’m currently learning C++ at AU
 - 💞️ My ID number is 210721 
 - 📫 How to reach me using my university mail - 21au049@akfauniversity.org
